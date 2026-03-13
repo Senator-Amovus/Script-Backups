@@ -1,3 +1,5 @@
+# Script is completely broken, and I have tried every fix I can but it seems its an issue with YouTube.
+
 import os
 import subprocess
 import shutil
