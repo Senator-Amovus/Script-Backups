@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         Kemono Link Auto Copier
+// @name         Link Auto Copier
 // @namespace    https://kemono.cr/
 // @version      1.1
-// @description  Automatically detects Mega, Google Drive, and Dropbox links on Kemono and copies them to clipboard
-// @match        https://kemono.cr/*
+// @description  Automatically detects Mega, Google Drive, and Dropbox links and copies them to clipboard
+// @match        *://*/*
 // @grant        GM_setClipboard
 // @grant        GM_notification
 // @grant        GM_getValue
