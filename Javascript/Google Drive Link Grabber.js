@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Find Google Drive links and copy them to clipboard
-// @match        
+// @match        *://*/*
 // @grant        GM_setClipboard
 // ==/UserScript==
 
